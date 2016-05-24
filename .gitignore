@@ -1,0 +1,5 @@
+*.name
+*.xml
+*.pyc
+db.sqlite3
+*.iml
